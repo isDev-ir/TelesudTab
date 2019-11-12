@@ -24,7 +24,7 @@ sudo apt install libconfig++-dev
 -------------------
 👇کلون سورس [تبچی نوع 2](https://t.me/isdevTab)
 ```
-git clone https://github.com/Telesud/TelesudTab
+git clone https://github.com/isDev-ir/TelesudTab
 cd Telesud*
 chmod +x Telesud
 ./Telesud install
@@ -35,7 +35,7 @@ chmod +x Telesud
 -------------------
 برای واردشدن به پوشه در سرور از این دستور استفاده کنید
 ```
-cd tabi
+cd Telesud*
 ```
 
 برای ساخت ربات دستور زیر👇
@@ -65,7 +65,6 @@ tmux
 ```
 و بعد👇
 ```
-👇
 screen ./Telesud launch 1
 ```
 1 مشخص میکند که ربات چندم شما لانچ شود ، اگه ربات دوم را میخواهید روشن کنید عدد 2 بزارید
